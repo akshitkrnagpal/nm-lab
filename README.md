@@ -1,4 +1,4 @@
 # Numerical Method Lab
 
-- [ ] Bisection Method
+- [x] Bisection Method
 - [ ] Secant Method
