@@ -4,4 +4,4 @@
 - [x] Secant Method
 - [ ] Regula Falsi Method
 - [x] Newton Raphson Method
-- [ ] Muller's Method
+- [x] Muller's Method
