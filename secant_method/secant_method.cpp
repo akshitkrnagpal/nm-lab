@@ -45,9 +45,6 @@ long double root_by_secant ( long double (*f)(long double), int range[], bool de
 			return x[i];
 		}
 
-		if( f(x[i]) * f(x[i-1]) > 0 )
-			x[i-1] = x[i-2];
-
 		count++;
 	}
 
