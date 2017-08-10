@@ -5,3 +5,4 @@
 - [x] Regula Falsi Method
 - [x] Newton Raphson Method
 - [x] Muller's Method
+- [x] Gauss Eliminaton Method
